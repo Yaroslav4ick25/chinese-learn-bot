@@ -3,3 +3,4 @@ __pycache__/
 start.ps1
 run_bot.bat
 progress.json
+*_log.txt
